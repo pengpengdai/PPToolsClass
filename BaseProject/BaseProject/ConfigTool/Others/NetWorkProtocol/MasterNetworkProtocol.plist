@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PushState</key>
+	<string>master</string>
+	<key>NetWorkProtocol_Public</key>
+	<string>https://master-public-service-gateway.51doro.com/api</string>
+	<key>NetWorkProtocol_Html</key>
+	<string>https://golf-release.huajiweiye.com/</string>
+	<key>NetWorkProtocol_BaseURL</key>
+	<string>https://golf-release.huajiweiye.com/api/</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+platform :ios, '9.0'
+target 'BaseProject' do
+    pod 'AFNetworking', '~> 3.1.0'
+    pod 'ReactiveObjC', '~> 3.0.0'
+    pod 'SDWebImage', '~> 4.0'
+    pod 'IQKeyboardManager'
+    pod 'MJExtension', '~> 3.0.13'
+    pod 'Masonry'
+    pod 'SVProgressHUD'
+    pod 'Bugly’
+    pod 'YYKit'
+    pod 'BlocksKit', '~> 2.2.5'
+    
+    # 检测内存泄露
+    #   pod 'MLeaksFinder'
+    # 检测循环引用
+    #  pod 'FBRetainCycleDetector'
+end

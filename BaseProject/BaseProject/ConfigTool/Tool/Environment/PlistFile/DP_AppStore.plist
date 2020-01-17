@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NetworkBaseUrl</key>
+	<string>https://golf.51doro.com/api/</string>
+	<key>NetworkBaseUrl_Html</key>
+	<string>https://golf.51doro.com/</string>
+	<key>NetworkBaseUrl_Public</key>
+	<string>https://public-service-gateway.51doro.com/api</string>
+</dict>
+</plist>
